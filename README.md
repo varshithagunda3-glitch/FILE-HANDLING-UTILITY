@@ -23,3 +23,5 @@ File handling is widely used in many real-world applications. Some common uses i
 * Application logging systems
 * Configuration file management
 * Data backup and storage systems
+
+  *OUTPUT* : <img width="1390" height="415" alt="Image" src="https://github.com/user-attachments/assets/a87497b5-82cd-49ef-8ca7-e2c9e848e2e8" />
